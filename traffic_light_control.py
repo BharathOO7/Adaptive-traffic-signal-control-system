@@ -1,8 +1,3 @@
-'''
-Author : Tej Patel
-Contact: tej18121995@gmail.com
-'''
-
 from __future__ import absolute_import
 from __future__ import print_function
 from sumolib import checkBinary
